@@ -1,1 +1,1 @@
-project based on codecademy instructions
+Project based on codecademy instructions
