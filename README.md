@@ -1,1 +1,1 @@
-Project based on codecademy instructions
+Project from codecademy. Simple html and css code, made from scratch based on instructions from excursion_redline.jpg(content directory). The goal of this excersise was to practise simple git commands in VSC.
